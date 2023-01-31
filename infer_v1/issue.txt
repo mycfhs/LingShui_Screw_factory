@@ -1,0 +1,5 @@
+存在点云找点时 483>480 ?
+看一看啥情况  看看输出的图像尺寸
+输入前resize以下尝试?
+warm up     for _ in range(10)
+thread在nano上较卡
